@@ -2,16 +2,26 @@
   <img src="https://raw.githubusercontent.com/simhadri118/simhadri118/main/github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 
 # Hi, I'm Simhadri Itrajula 
-
 ### AI & Data Science Student | Aspiring Data Scientist
 
 Passionate about turning raw data into meaningful insights that solve real-world problems through Data Science, Machine Learning, and Artificial Intelligence.
 
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 👨‍💻 About Me
+
+<!-- About Me Section -->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 I am a B.Tech student in Artificial Intelligence and Data Science at Parul University, passionate about transforming raw data into meaningful insights that solve real-world problems.
 
@@ -19,7 +29,8 @@ I believe that continuous learning, consistency, and hands-on experience are the
 
 My goal is to contribute to impactful AI and Data Science solutions while growing as a lifelong learner and making a meaningful impact through data-driven innovation.
 
-
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎓 Education
 
@@ -28,6 +39,9 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 **Parul University, Vadodara, Gujarat, India**  
 **Expected Graduation:** 2028
 
+
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## 💡 Core Skills
@@ -41,9 +55,11 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 - 🧠 Problem Solving
 
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🛠️ Tech Stack
-
 
 ## 💻 Programming Languages
 
@@ -59,6 +75,9 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 | *Pandas* | *NumPy* | *Matplotlib* | *Seaborn* | *Scikit-Learn* | *TensorFlow* |
 
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🧰 Tools & Platforms
 
 | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=vscode" width="48"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" width="48"/> | <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" width="48"/> |
@@ -67,13 +86,20 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 
 
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🌱 Currently Learning
+
 
 - 🤖 Artificial Intelligence & Deep Learning (Microsoft Learning Program)
 - ☁️ AWS Cloud Fundamentals
 - 📊 Advanced Machine Learning Concepts
 - 📝 Building Real-World Data Science Projects
 
+
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## 📊 GitHub Statistics
@@ -88,6 +114,9 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 </p>
 
 
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🤝 Connect With Me
 
@@ -98,6 +127,7 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 <a href="mailto:simhadriitrajula2006@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
+
 
 
 

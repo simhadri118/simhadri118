@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simhadri118/simhadri118/main/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+
 # Hi, I'm Simhadri Itrajula 
 
 ### AI & Data Science Student | Aspiring Data Scientist
@@ -74,8 +79,8 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadri118&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadri118&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadri118&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadri118&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -86,17 +91,13 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/simhadri-itrajula-19366b405">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
+<a href="https://www.linkedin.com/in/simhadri-itrajula-19366b405">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="simhadriitrajula2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
+<a href="mailto:simhadriitrajula2006@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
 
 

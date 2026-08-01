@@ -120,13 +120,17 @@ My goal is to contribute to impactful AI and Data Science solutions while growin
 
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/simhadri-itrajula-19366b405">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
 
-<a href="mailto:simhadriitrajula2006@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
+  <a href="https://www.linkedin.com/in/simhadri-itrajula-19366b405">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="https://github.com/simhadri118">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+
+  <a href="https://portfolio-simhadri1.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+  </a>
 
 
 
